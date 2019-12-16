@@ -12,7 +12,7 @@ Java Edition 1.14+ Compatible
 
 	Install the datapack as you normally would,
 Now find a trident and a carrot on a stick, throw the trident, and while its airborn right click the carrot on a stick.
-
+Check the Wiki for Version History and Patch Notes.
 
 	I hope you enjoy!
 
