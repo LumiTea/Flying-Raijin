@@ -11,7 +11,8 @@
       Install the datapack as you normally would,
       Now find a trident and a carrot on a stick, throw the trident, 
       and while its airborn right click the carrot on a stick.
-
+      
+      Version 8.4 or Higher Recommended
 
       I hope you enjoy!
 
