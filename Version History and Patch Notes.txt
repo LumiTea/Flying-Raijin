@@ -1,0 +1,30 @@
+
+Version History:
+
+     Version 8.5:
+Crushed a not exactly bug,  where the player would face the opposite direction of the trident when teleporting.
+you now remain facing the direction you were facing when you teleported.
+Real strange bug fix, Stopped Random players being teleported when other players attempt to use Raijin.
+
+     Version 8.4:
+Performance Overhaul, Optimized and Code Cleaned up.
+
+     Version 8.3:
+Cleaned up the code, no bug fixes or optimizations.
+Performance optimization planned for V8.4+.
+
+     Version 8.2:
+Multiplayer Bug fixes
+
+     Version 8.1:
+Minor Bug fixes and code cleaning.
+
+     Version 8.0:
+First Plug and Play Update!
+Updated the entire plugin to remove manual setup and make it like any other datapack.
+ >Admittedly, I didn't have my code %100 together on this version, tho it worked for SP, MP had major bugs. 
+
+     Version 7.2.1:
+Original Release, No Bugs but required Manual setup in game, 
+and there was a debugging feature that may have daunted new players.
+Kept it up for Devs and folks who may enjoy its functionality tho.
