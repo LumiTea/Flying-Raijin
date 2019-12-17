@@ -13,6 +13,7 @@
       and while its airborn right click the carrot on a stick.
       
       Version 8.4 or Higher Recommended
+      Check wiki for version history and patch notes
 
       I hope you enjoy!
 
