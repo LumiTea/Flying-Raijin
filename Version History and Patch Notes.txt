@@ -26,10 +26,4 @@ Updated the entire plugin to remove manual setup and make it like any other data
 
      Version 7.2.1:
 Original Release, No Bugs but required Manual setup in game, 
-and there was a debugging feature that may have daunted new players.
-Kept it up for Devs and folks who may enjoy its functionality tho.
-
-*Old Info from V7.2.1 -
-Manual Install= Place an "Always Active" "Repeating" Command block in your spawn chunks,
-put the command "function mrp:rtest" (To turn off the use log type "scoreboard players set * UseLogger 0" )
-and the datapack is set.
+and there was a debugging feature.
