@@ -3,7 +3,7 @@ Version History:
 
      Version 8.5:
 Crushed a not exactly bug,  where the player would face the opposite direction of the trident when teleporting.
-you now remain facing the direction you were facing when you teleported.
+you now remain facing the direction you were facing when you teleported.  And retain your momentum.
 Real strange bug fix, Stopped Random players being teleported when other players attempt to use Raijin.
 
      Version 8.4:
