@@ -4,7 +4,7 @@
       Hiraishin no jutsu
 
       Java Edition 1.14+ Compatible
-      (Compatible with any 1.14 version, 1.15, and maybe 1.13, tested in 1.14.4 and 1.15)
+      (Compatible with 1.14+ - 1.15+)
       A Datapack that lets you and your players become Minato Namikaze from Naruto.
       (turn Tridents into Teleportation Kunai)
 
