@@ -1,6 +1,11 @@
 
 Version History:
 
+     Version 8.6:
+Attempted to fix a bug in multipler where players would be teleportsed when they had a left over raijin click 
+and another player was using raijin.  (please report any issues)
+
+
      Version 8.5:
 Crushed a not exactly bug,  where the player would face the opposite direction of the trident when teleporting.
 you now remain facing the direction you were facing when you teleported.  And retain your momentum.
