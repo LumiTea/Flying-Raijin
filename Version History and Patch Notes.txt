@@ -2,7 +2,7 @@
 Version History:
 
      Version 8.6:
-Attempted to fix a bug in multipler where players would be teleportsed when they had a left over raijin click 
+Attempted to fix a bug in multipler where players would be teleported when they had a left over raijin click 
 and another player was using raijin.  (please report any issues)
 
 
