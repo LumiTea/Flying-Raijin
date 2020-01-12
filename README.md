@@ -17,6 +17,9 @@
       I hope you enjoy!
 
       Thanks to MR.Programs for helping me put this together. <3
+      
+     Check out the Beta-Testing Server!
+     https://bit.ly/2TizsgS
 
       Cheers
       -Infamous
