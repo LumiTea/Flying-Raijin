@@ -1,6 +1,14 @@
 
 Version History:
 
+     Version 9.0:
+Added Crafting Recipe, No longer Works with every Trident.(Teleporting is player/trident specific)
+No Longer teleports you to he oldest Trident in the world.
+Added a system to track up to 1500 Players and their tridents, now you wont randomly teleport to someone elses.
+Fixed many Multiplayer bugs with random teleports and Bossbar display.
+Fixed Bossbar display to only display for those who are teleporting.
+There May be some bugs i didnt catch in testing, please leave feedback <3
+
      Version 8.6:
 Attempted to fix a bug in multiplayer where players would be teleported when they had a left over raijin click 
 and another player was using raijin.  (please report any issues)
