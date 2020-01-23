@@ -1,6 +1,11 @@
 
 Version History:
 
+     Version 9.2:
+Fixed a Somewhat Major Bug in Multiplayer, 
+If a player had thrown a trident and another player used raijin they would both be teleported. -Fixed
+Minor Bug fix: First player to craft trident wouldnt get Bossbar Effect ot Tp Noises. -Fixed
+
      Version 9.1:
 Added Teleport sounds that mimic Minatos Raijin Jutsu sound.
 
