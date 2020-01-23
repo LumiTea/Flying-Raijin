@@ -15,6 +15,10 @@
       on the ground and right click with a carrot on a stick to craft your Raijin.
       To Use the Raijin, Throw the trident and Right click the carrot on a stick.
       
+      If you update from 8.6 or a previous version to 9.0+ you will have to create a new trident using the craftin method.
+      Do not use an enchanted triden to craft a Raijin, it will destroy the enchants.
+      You Can however Rename and Enchant your Raijin trident once its crafted.
+      
       Old Pack Info: (8.6 and Older)
       Install the datapack as you normally would,
       Now find a trident and a carrot on a stick, throw the trident, 
