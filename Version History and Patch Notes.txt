@@ -1,6 +1,12 @@
 
 Version History:
 
+     Version: 9.4:
+Updated Crafting, no longer need to right click a carrot on a stick.  just throw the items together.
+Funtionality Updated, You get a special Carrot on a stick when you craft your raijin 
+which is the stick you should use to teleport.  it can be renamed.
+Bugs fixed in the procces of updating which are technical and no one would notice them, but they are fixed.
+
      Version 9.2:
 Fixed a Somewhat Major Bug in Multiplayer, 
 If a player had thrown a trident and another player used raijin they would both be teleported. -Fixed
