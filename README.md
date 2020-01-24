@@ -12,12 +12,12 @@
       
       Install datapack in your world/datapacks folder.
       To craft a Raijin Trident, Get a Normal Trident, a Eye of Ender and a Name Tag, throw them all near each other
-      on the ground and right click with a carrot on a stick to craft your Raijin.
+      on the ground, and you will recieve a special trident and carrot on a stick.
       To Use the Raijin, Throw the trident and Right click the carrot on a stick.
       
-      If you update from 8.6 or a previous version to 9.0+ you will have to create a new trident using the craftin method.
-      Do not use an enchanted triden to craft a Raijin, it will destroy the enchants.
-      You Can however Rename and Enchant your Raijin trident once its crafted.
+      If you update from 8.6 or a previous version to 9.0+ you will have to create a new trident using the crafting method.
+      Do not use an enchanted trident to craft a Raijin, it will destroy the enchants.
+      You Can however Rename and Enchant your Raijin trident once its crafted. (same with the carrot on a stick)
       
       Old Pack Info: (8.6 and Older)
       Install the datapack as you normally would,
