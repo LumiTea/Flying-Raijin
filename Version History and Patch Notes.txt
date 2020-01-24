@@ -1,6 +1,9 @@
 
 Version History:
 
+     Version 9.6:
+Added Crafting sound, Fixed Teleport sound.
+
      Version: 9.4:
 Updated Crafting, no longer need to right click a carrot on a stick.  just throw the items together.
 Funtionality Updated, You get a special Carrot on a stick when you craft your raijin 
