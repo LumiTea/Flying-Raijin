@@ -3,7 +3,9 @@ Version History:
 
      Version 9.6:
 Added Crafting sound, Fixed Teleport sound.
-
+Fixed a Bug where Players with the same Raijin ID Both Teleported when 1 used raijin.
+(There is still a bug where if 1 of the players with that ID Throws their raijin, 
+the other player will tp to it if they use the Rajin Carrot Stick click.)
      Version: 9.4:
 Updated Crafting, no longer need to right click a carrot on a stick.  just throw the items together.
 Funtionality Updated, You get a special Carrot on a stick when you craft your raijin 
