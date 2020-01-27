@@ -1,7 +1,11 @@
 
 Version History:
 
+     Version 9.9:
+Fixed Teleportation Order, you now teleport to the closest trident you threw.
+
      Version 9.8:
+Left this version up because it has a neat functionality, Teleports to oldest trident you've thrown.
 Fixed a small bug that caused the scores to count to quickly.
 Added Uninstall function. /function mrp:uninstall
 
