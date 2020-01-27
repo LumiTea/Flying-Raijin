@@ -1,6 +1,10 @@
 
 Version History:
 
+     Version 9.7:
+Fixed Bug where Offhand couldnt use raijin tp.
+and because of that bug fix another smaller bug was patched as well, teleporting when switcing carrot back to main hand.
+
      Version 9.6:
 Added Crafting sound, Fixed Teleport sound.
 Fixed a Bug where Players with the same Raijin ID Both Teleported when 1 used raijin.
