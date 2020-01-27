@@ -3,6 +3,7 @@ Version History:
 
      Version 9.8:
 Fixed a small bug that caused the scores to count to quickly.
+Added Uninstall function. /function mrp:uninstall
 
      Version 9.7:
 Fixed Bug where Offhand couldnt use raijin tp.
