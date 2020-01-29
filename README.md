@@ -13,7 +13,8 @@
       Install datapack in your world/datapacks folder.
       To craft a Raijin Trident, Get Any Trident, a Eye of Ender and a Name Tag, throw them all near each other
       on the ground, and your trident will be transformed and you will get a special carrot on a stick.
-      You can also throw an old Named/enchanted Carrot on a stick into the crafting mix to upgrade it to a Raijin Carrot.
+      (You can also throw an old Named/enchanted Carrot on a stick into 
+      the crafting mix to upgrade it to a Raijin Carrot.)
       To Use the Raijin, Throw the trident and Right click the carrot on a stick.
       
       You Can Rename and Enchant your Raijin trident before or after its been Raijinified. 
