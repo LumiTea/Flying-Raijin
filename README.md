@@ -15,7 +15,8 @@
       on the ground, and your trident will be transformed and you will get a special carrot on a stick.
       To Use the Raijin, Throw the trident and Right click the carrot on a stick.
       
-      You Can Rename and Enchant your Raijin trident before or after its been Raijinified. (same with the carrot on a stick)
+      You Can Rename and Enchant your Raijin trident before or after its been Raijinified. 
+      (same with the carrot on a stick)
       
       (Version 8.6 for Classic Version)
       
