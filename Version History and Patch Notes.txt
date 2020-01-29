@@ -1,6 +1,12 @@
 
 Version History:
 
+     Version 10.3:
+Added Carrot QoL Improvemnets.
+Such as: Throw and old Carrot on a stick that you want to upgrade without renaming or something
+into the crafting mix before the other ingredients and it will be tagged with a Haraishin No Jutsu Enchant.
+Fixed some bugs with carrot giving to.
+
      Version 10.2:
 Added Name to Carrot on a stick and enchant thing.
 
