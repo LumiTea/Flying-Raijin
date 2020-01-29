@@ -17,7 +17,7 @@
       
       You Can Rename and Enchant your Raijin trident after its been Raijinified. (same with the carrot on a stick)
       
-      (Version 8.6 or higher for Classic Version)
+      (Version 8.6 for Classic Version)
       
       I hope you enjoy!
 
