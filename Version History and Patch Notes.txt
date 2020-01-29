@@ -1,6 +1,9 @@
 
 Version History:
 
+     Version 10.2:
+Added Name to Carrot on a stick and enchant thing.
+
      Version 10.1:
 Added Enchant Display Text to Distinguish Raijin Tridents.
 Text: Haraishin No Jutsu
