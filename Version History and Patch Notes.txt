@@ -1,6 +1,10 @@
 
 Version History:
 
+     Version 10.1:
+Added Enchant Display Text to Distinguish Raijin Tridents.
+Text: Haraishin No Jutsu
+
      Version 10.0:
 Fixed Crafting so that you can keep named and enchanted tridents and upgrade them to raijin tridents.
 Fixed carrot on a stick being given when you already had one for raijin. (Unless its in your offhand for some reason)
