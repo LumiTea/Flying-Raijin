@@ -1,6 +1,12 @@
 
 Version History:
 
+     Version 10.4:
+Added /trigger RaijinCraft Debug for pack reinstalls.
+use trigger command to fix your trident if the datapack has been reinstalled.
+Uninstall/Reinstall Tip: "/function mrp:uninstall" "/reload" 
+and then to fix your/players who had made tridents scores if your reinstalling/updating, "/trigger RaijinCraft"(per player)
+
      Version 10.3:
 Added Carrot QoL Improvemnets.
 Such as: Throw and old Carrot on a stick that you want to upgrade without renaming or something
