@@ -1,6 +1,10 @@
 
 Version History:
 
+     Version 10.5:
+Removed /trigger RaijinCraft, fixed the datapack so that it is unecassary when reinstalling.  it is now automated.
+Reinstalling is now super easy and simple and safe. /function mrp:uninstall, install new version, /reload.
+
      Version 10.4:
 Added /trigger RaijinCraft Debug for pack reinstalls.
 use trigger command to fix your trident if the datapack has been reinstalled.
