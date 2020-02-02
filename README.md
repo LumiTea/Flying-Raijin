@@ -25,7 +25,7 @@
       I hope you enjoy!
 
       Thanks to MR.Programs for helping me put this together. <3
-      
+      <strike>
       ~~Old Pack Info: (8.6 and Older)~~
       ~~Install the datapack as you normally would,~~
       ~~Now find a trident and a carrot on a stick, throw the trident,~~
@@ -33,7 +33,7 @@
       ~~-9.0+ OLD Info:~~
       ~~If you update from 8.6 or a previous version to 9.9 or LOWER you will have to create a new trident using the crafting method.~~
       ~~Do not use an enchanted trident to craft a Raijin, it will destroy the enchants.~~
-      
+      </strike>
      Check out the Beta-Testing Server!
      https://bit.ly/2TizsgS
 
