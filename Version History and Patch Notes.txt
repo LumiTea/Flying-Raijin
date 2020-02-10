@@ -1,6 +1,11 @@
 
 Version History:
 
+     Version 10.6:
+Updated Overflow Crafting Buffer and Debugging.  Reloads entire plugin after 1500 Tridents have been crafted.
+Fixes player scores properly more or less.
+Please report any issues.     
+     
      Version 10.5:
 Removed /trigger RaijinCraft, fixed the datapack so that it is unecassary when reinstalling.  it is now automated.
 Reinstalling is now super easy and simple and safe. /function mrp:uninstall, install new version, /reload.
