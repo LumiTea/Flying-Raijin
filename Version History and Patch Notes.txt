@@ -1,6 +1,13 @@
 
 Version History:
 
+     Version 10.7:
+Major Multiplayer Bug fixes.
+1: Fixed Crafting bug where old players tridents broke when new players crafted tridents when they were online.
+2: fixed crafting overflow bug of the same sort.
+3: fixed carrot on a stick not being given bug.
+Cleaned up code, performance should be optimized.
+
      Version 10.6:
 Updated Overflow Crafting Buffer and Debugging.  Reloads entire plugin after 1500 Tridents have been crafted.
 Fixes player scores properly more or less.
