@@ -22,6 +22,9 @@
       
       (Version 8.6 for Classic Version)
       
+How to Install a Datapack:
+https://www.youtube.com/watch?v=4Dxzw12TQcg
+      
       I hope you enjoy!
 
       Thanks to MR.Programs for helping me put this together. <3
