@@ -1,6 +1,10 @@
 
 Version History:
 
+     Version 10.8:
+Added Texture to the Carrot on a stick to make it more immersive.
+Created Resource pack to go with the datapack "Raijin Textures".
+
      Version 10.7:
 Major Multiplayer Bug fixes.
 1: Fixed Crafting bug where old players tridents broke when new players crafted tridents when they were online.
