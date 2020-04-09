@@ -19,8 +19,8 @@
       
       You Can Rename and Enchant your Raijin trident before or after its been Raijinified. 
       (same with the carrot on a stick)
-      (in 10.8 the carrot on a stick got a custom texture, but in order to see it 
-      you must re-craft the Raijin to see the carrot textures.  make sure you throw the carrot on the ground first, 
+      (in 10.8 the carrot on a stick got a custom resource pack, but in order to see it 
+      you must re-craft the Raijin.  make sure you throw the carrot on the ground first, 
       or simply do not have a carrot on a stick in your inventory.)
       
       (Version 8.6 for Classic Version)
