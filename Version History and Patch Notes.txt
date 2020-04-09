@@ -5,7 +5,8 @@ Version History:
 Added Texture to the Carrot on a stick to make it more immersive.
 Created Resource pack to go with the datapack "Raijin Textures".
 (note that if you created your Raijin before this update you will have to recraft your carrot on a stick within the raijin recipe,
-I.E, throw one in the crafting mix or just make sure you dont have one in your inventory!  and re-craft the raijin.)
+in order for the textures to take effect I.E, throw one in the crafting mix or just make sure you dont have one in your inventory!
+and re-craft the raijin if you want the textures)
 
      Version 10.7:
 Major Multiplayer Bug fixes.
