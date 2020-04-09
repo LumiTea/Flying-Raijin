@@ -8,7 +8,7 @@
       A Datapack that lets you and your players become Minato Namikaze from Naruto.
       (Craft Tridents into Teleportation Kunai)
       
-            Version 10.7 or Higher Recommended!
+            Version 10.8 or Higher Recommended!
       
       Install datapack in your world/datapacks folder.
       To craft a Raijin Trident, Get Any Trident, a Eye of Ender and a Name Tag, throw them all near each other
@@ -19,6 +19,9 @@
       
       You Can Rename and Enchant your Raijin trident before or after its been Raijinified. 
       (same with the carrot on a stick)
+      (in 10.8 the carrot on a stick got a custom texture, but in order to see it 
+      you must re-craft the Raijin to see the carrot textures.  make sure you throw the carrot on the ground first, 
+      or simply do not have a carrot on a stick in your inventory.)
       
       (Version 8.6 for Classic Version)
       
