@@ -7,6 +7,7 @@ Fixed a few really annoying bugs.
 Bugs: When a player was gifted a trident it broke a few peoples scores.  and some people wouldnt be able to teleport,
 occasionally the player who was gifted the trident was effected by this.  Now fixed.
 
+# I would recommend a full re-install using the function command /function rmt:uninstall before updating.
 I would hazard to say its working 99.9% correctly.
 The only caveat is you must stand within 5 blocks of the trident when crafting a raijin now.
 Make sure no one is nearby when crafting.  Especially if they are closer to the ground trident than you.
