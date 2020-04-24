@@ -36,10 +36,6 @@ https://youtu.be/dOuJNRJvqmY
 Big thanks to たくぱんちゃんねる for showcasing the pack!
 ~~~
       
-      I hope you enjoy!
-
-      Thanks to MR.Programs for helping me put this together. <3
-      
       Old Pack Info: (8.6 and Older)
       Install the datapack as you normally would,
       Now find a trident and a carrot on a stick, throw the trident,
@@ -50,6 +46,11 @@ Big thanks to たくぱんちゃんねる for showcasing the pack!
       
      Check out the Beta-Testing Server!
      https://bit.ly/2TizsgS
+     
+     
+      I hope you enjoy!
+
+      Big Thanks to M.R. Programs for helping me put this together. <3
 
       Cheers
       -Infamous
