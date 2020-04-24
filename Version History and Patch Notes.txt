@@ -1,6 +1,9 @@
 
 Version History:
 
+     Version 11.0:
+Fixed Raijin Enchant typo - Justsu to Jutsu.  Facepalm.
+
      Version 10.9:
 Fixed the scores when a player is given a trident by someone else.
 Fixed a few really annoying bugs.
