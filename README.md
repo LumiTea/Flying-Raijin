@@ -28,6 +28,8 @@
 How to Install a Datapack:
 https://www.youtube.com/watch?v=4Dxzw12TQcg
 
+Datapack Inspiration: https://youtu.be/Fd_vSRkGlv8
+
 Datapack in Action:
 https://youtu.be/dOuJNRJvqmY
 
