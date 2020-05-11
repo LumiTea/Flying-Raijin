@@ -1,6 +1,9 @@
 
 Version History:
 
+     Version 11.0.4
+Cleaned up Code, Added help command. /trigger raijin_help
+
      Version 11.0:
 Fixed Raijin Enchant typo - Justsu to Jutsu.  Facepalm.
 
