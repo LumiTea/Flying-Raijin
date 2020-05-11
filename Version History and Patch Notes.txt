@@ -2,7 +2,8 @@
 Version History:
 
      Version 11.0.4
-Cleaned up Code, Added help command. /trigger raijin_help
+Cleaned up Code,Updated Crafting to use Enchanting table instead of ground.(throw items on top of e-table.) 
+Added help command. /trigger raijin_help
 
      Version 11.0:
 Fixed Raijin Enchant typo - Justsu to Jutsu.  Facepalm.
