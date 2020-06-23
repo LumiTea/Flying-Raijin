@@ -21,7 +21,7 @@
       (You can also throw an old Named/enchanted Carrot on a stick into 
       the crafting mix to upgrade it to a Raijin Carrot.)
       To Use the Raijin, Throw the trident and Right click the carrot on a stick.
-      
+ 
       You Can Rename and Enchant your Raijin trident before or after its been Raijinified. 
       (same with the carrot on a stick)
       (in 10.8 the carrot on a stick got a custom resource pack, but in order to see it 
