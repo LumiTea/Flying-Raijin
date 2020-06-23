@@ -1,6 +1,13 @@
 
 Version History:
 
+     Version 11.1:
+Removed 1499 lines of code, replaced with 1.
+Pack can now support 999999 Players before the pack resets.
+Performance Boosted!
+  Help command info updated.
+
+
      Version 11.0.4
 Cleaned up Code,Updated Crafting to use Enchanting table instead of ground.(throw items on top of e-table.) 
 Added help command. /trigger raijin_help
