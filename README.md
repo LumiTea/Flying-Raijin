@@ -10,7 +10,11 @@
       
             Version 11.0 or Higher Recommended!
       
-      Install datapack in your world/datapacks folder.
+    Install:
+      Click RaijinVx.x and then click download.  (same applys to "Raijin Textures Vx.x" if you desire the textures.)
+      (Paste resource pack into resource pack folder.)
+      Paste the datapack into your .minecraft/saves/world/datapacks folder.
+    Use:
       To craft a Raijin Trident, Get Any Trident, a Eye of Ender and a Name Tag, throw them
       on top of an enchanting table within 5 blocks of yourself, and your trident will be transformed 
       and you will get a special carrot on a stick.
