@@ -8,7 +8,7 @@
       A Datapack that lets you and your players become Minato Namikaze from Naruto.
       (Craft Tridents into Teleportation Kunai)
       
-            Version 11.0 or Higher Recommended!
+            Version 11.1.2 or Higher Recommended!
       
     Install:
       Click RaijinVx.x and then click download.  (same applys to "Raijin Textures Vx.x" if you desire the textures.)
