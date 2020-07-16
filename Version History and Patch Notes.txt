@@ -1,16 +1,21 @@
 
 Version History:
 
+     Version 11.2.1:
+Fixed bug where enchanted tridents would be wiped.
+
      Version 11.2:
 Changed Teleport Order, if you throw multiple tridents you will now teleport to the newest ones you threw,
 Newest thrown tridents are priority.
 Added Enchant glint to trident and raijin item when crafted for effect.
 Cleaned Code, More performance friendly now.  also removed a lot of extra text to cut file sizes down.
+(Teleport newest mechanic introduced)
 
      Version 11.1.2:
 Added Pack Advancement to show the pack/credit in Adv's menu.
 Fixed a minor/serious(depending how busy your server is) bug with left over teleports,
 player who right clicked their raijin but didnt teleport would occasionally teleport when other players used raijin.
+(last teleport nearest mechanic update.)
 
      Version 11.1:
 Removed 1499 lines of code, replaced with 1.
