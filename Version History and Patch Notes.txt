@@ -1,6 +1,12 @@
 
 Version History:
 
+# Minecraft 1.16.2:
+     Version 11.2.2:
+Updated for 1.16.2 UI.  Added Pack Icon.
+
+
+# Minecraft 1.16.1 and Below
      Version 11.2.1:
 Fixed bug where enchanted tridents would be wiped.
 
