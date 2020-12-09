@@ -1,12 +1,19 @@
 
 Version History:
 
-# Minecraft 1.16.2:
+# Minecraft 1.16-1.16.4:
+
+     Version 11.2.3:
+Fixed Multiplayer Bug, Player who threw the first trident had to tp before other players could.
+all players can use concurrently now.
+Removed: Boss Bar (May return in the future as something else.)
+
+Minecraft 1.16.2 and Below
      Version 11.2.2:
 Updated for 1.16.2 UI.  Added Pack Icon.
+(Bugged for MP)
 
-
-# Minecraft 1.16.1 and Below
+Minecraft 1.16.1 and Below
      Version 11.2.1:
 Fixed bug where enchanted tridents would be wiped.
 
