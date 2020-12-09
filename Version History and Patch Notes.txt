@@ -3,9 +3,12 @@ Version History:
 
 # Minecraft 1.16-1.16.4:
 
+     Version 11.2.4:
+Updated Help to Look Better.
      Version 11.2.3:
 Fixed Multiplayer Bug, Player who threw the first trident had to tp before other players could.
 all players can use concurrently now.
+Added: /trigger raijin_spare  (get a spare carrot on a stick if you loose your original)
 Removed: Boss Bar (May return in the future as something else.)
 
 Minecraft 1.16.2 and Below
