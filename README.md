@@ -6,7 +6,7 @@ Java Edition 1.14+ Compatible
 A Datapack that lets you and your players become Minato Namikaze from Naruto.  
 (Craft Tridents into Teleportation Kunai)
       
-            Version 11.2.3 or Higher Recommended!
+            Version 11.2.4 or Higher Recommended!
       
 Install:
 
