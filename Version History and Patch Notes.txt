@@ -4,9 +4,14 @@ Version History:
 # Minecraft 1.16-1.16.4:
 
      V11.3:
-Re-coding whole pack for performamnce.  Swapping scoreboards for advancements and such. less tick-file functions.
+Re-coded Many things, If you update to this pack you will have to re-craft your raijins!
+Performance might be better? hopefully?
+Code cleaned, NBT Changed for easier editing in the future.  
+Teleports are from newest to oldest trident (last trident you threw then the one before and so on)
+Removed Version number from advs.
 
 	V11.2.5:
+Removed: Help Command, Spare Raijin Command.
 Did my best to fix the multiplayer tp bug where,
 non-op throws trident, op throws trident, op cannot tp until non-op tps.  or non-op tps to op trident, then op to same.
 Commented all excess shit out.  apart from crafting.
