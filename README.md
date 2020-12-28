@@ -1,18 +1,12 @@
-# Hiraishin no jutsu
+# [Hiraishin no jutsu 🎥](https://youtu.be/dOuJNRJvqmY)
 
 Java Edition 1.14+ Compatible  
-(Compatible with 1.14 - 1.16.4+)
+(Compatible with all MC versions 1.14 - 1.17 snapshots)
 
 A Datapack that lets you and your players become Minato Namikaze from Naruto.  
 (Craft Tridents into Teleportation Kunai)
       
-            Version 11.2.4 or Higher Recommended!
-      
-Install:
-
-      Click RaijinVx.x and then click download.  (same applys to "Raijin Textures Vx.x" if you desire the textures.)
-      (Paste resource pack into resource pack folder.)
-      Paste the datapack into your .minecraft/saves/world/datapacks folder.
+            Version 11.2.5 or Higher Recommended!
 
 Use:
 
@@ -36,8 +30,8 @@ https://www.youtube.com/watch?v=4Dxzw12TQcg
 
 Datapack Inspiration: https://youtu.be/Fd_vSRkGlv8
 
-Datapack in Action:
-https://youtu.be/dOuJNRJvqmY
+Datapack in Action:https://youtu.be/dOuJNRJvqmY
+
 
 Big thanks to たくぱんちゃんねる for showcasing the pack!
 
@@ -49,16 +43,18 @@ Big thanks to たくぱんちゃんねる for showcasing the pack!
       -9.0+ OLD Info:
       If you update from 8.6 or a previous version to 9.9 or LOWER you will have to create a new trident using the crafting method.
       Do not use an enchanted trident to craft a Raijin, it will destroy the enchants.
+      #
+      Install:
+      Click RaijinVx.x and then click download.  (same applys to "Raijin Textures Vx.x" if you desire the textures.)
+      (Paste resource pack into resource pack folder.)
+      Paste the datapack into your .minecraft/saves/world/datapacks folder.
       
-Check out the Beta-Testing Server!
-     https://bit.ly/2TizsgS
-
+[Check out the Beta-Testing Server!](https://bit.ly/2TizsgS)
 
 I hope you enjoy!
 
 Big Thanks to M.R. Programs for helping me put this together. <3
 
 
-Cheers
-
+Cheers  
 -Infamous
