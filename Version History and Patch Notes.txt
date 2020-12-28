@@ -3,6 +3,15 @@ Version History:
 
 # Minecraft 1.16-1.16.4:
 
+     V11.3:
+Re-coding whole pack for performamnce.  Swapping scoreboards for advancements and such. less tick-file functions.
+
+	V11.2.5:
+Did my best to fix the multiplayer tp bug where,
+non-op throws trident, op throws trident, op cannot tp until non-op tps.  or non-op tps to op trident, then op to same.
+Commented all excess shit out.  apart from crafting.
+removed RaijinTP Tag.
+
      Version 11.2.4:
 Updated Help to Look Better.
      Version 11.2.3:
