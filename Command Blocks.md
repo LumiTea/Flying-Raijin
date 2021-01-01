@@ -9,7 +9,7 @@ Command Block Setup for older verisons of MC.
 	CMD 2: /scoreboard objectives add raijin_throw minecraft.used:minecraft.trident  
 	CMD 3: /scoreboard objectives add raijin_id dummy
 ### Step 2:  
-#### Create a chain of Command Blocks
+#### Create a chain of Command Blocks in your spawn chunks!
  
 	CMD Block 1: Always Active | Repeating  
 	execute as @a unless score @s raijin_id matches 1.. store result score @s raijin_id run scoreboard players add #last raijin_id 1
@@ -28,3 +28,5 @@ Command Block Setup for older verisons of MC.
 
 	CMD Block 6: Always Active | Chain  
 	execute as @a[scores={raijin=1..},nbt={Inventory:[{id:"minecraft:carrot_on_a_stick"}]}] run scoreboard players set @s raijin 0
+	
+## Now find a trident and a carrot on a stick, throw the trident, and while its airborn right click the carrot on a stick. 
