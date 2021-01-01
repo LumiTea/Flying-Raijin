@@ -1,7 +1,15 @@
 # Versions:  
 # Minecraft 1.16-1.16.4:  
 
-     V11.3:  
+	V11.4:  
+Re-coded Everything.
+New scoreboards, Namespace consistency, New crafting, Better Performance.
+New Crafting: Spit any Trident, a name tag and an eye of ender on top of an enchanting table, rename another eye of ender to "Raijin", 
+the trident will be enchanted and you will recieve a special item.
+Spare Raijin Link Crafting: Rename an eye of ender to "Raijin" and you will recieve a Raijin link.
+Re-did the info advancement with new info that was previously in help.
+
+	V11.3:  
 Re-coded Many things, If you update to this pack you will have to re-craft your raijins!  
 Performance might be better? hopefully?  
 Code cleaned, NBT Changed for easier editing in the future.    
@@ -15,7 +23,7 @@ non-op throws trident, op throws trident, op cannot tp until non-op tps.  or non
 Commented all excess shit out.  apart from crafting.  
 removed RaijinTP Tag.  
 
-     Version 11.2.4:  
+	Version 11.2.4:  
 Updated Help to Look Better.  
      Version 11.2.3:  
 Fixed Multiplayer Bug, Player who threw the first trident had to tp before other players could.  
@@ -24,12 +32,14 @@ Added: /trigger raijin_spare  (get a spare carrot on a stick if you loose your o
 Removed: Boss Bar (May return in the future as something else.)  
 
 Minecraft 1.16.2 and Below  
+
      Version 11.2.2:  
 Updated for 1.16.2 UI.  Added Pack Icon.  
 (Bugged for MP)  
 
 Minecraft 1.16.1 and Below  
-     Version 11.2.1:  
+
+	Version 11.2.1:  
 Fixed bug where enchanted tridents would be wiped.  
 
      Version 11.2:  
