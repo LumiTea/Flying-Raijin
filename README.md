@@ -6,7 +6,9 @@
 A Datapack that lets you and your players become Minato Namikaze from Naruto.  
 (Craft Tridents into Teleportation Kunai)
       
-            Version 11.2.5 or Higher Recommended!
+                  Version 11.4 or Higher Recommended!
+      (A reinstall is recomended if you update to 11.4+ from older versions)
+      (as well as re-crafting your current Trident(s) and Raijin Link Items)
 
 ### Use:
 
