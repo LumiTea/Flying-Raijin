@@ -2,12 +2,12 @@
 # Minecraft 1.16-1.16.4:  
 
 	V11.4:  
-Re-coded Everything.
-New scoreboards, Namespace consistency, New crafting, Better Performance.
-New Crafting: Spit any Trident, a name tag and an eye of ender on top of an enchanting table, rename another eye of ender to "Raijin", 
-the trident will be enchanted and you will recieve a special item.
-Spare Raijin Link Crafting: Rename an eye of ender to "Raijin" and you will recieve a Raijin link.
-Re-did the info advancement with new info that was previously in help.
+Re-coded Everything.  
+New scoreboards, Namespace consistency, New crafting, Better Performance.  
+New Crafting: Spit any Trident, a name tag and an eye of ender on top of an enchanting table, rename another eye of ender to "Raijin",   
+the trident will be enchanted and you will recieve a special item.  
+Spare Raijin Link Crafting: Rename an eye of ender to "Raijin" and you will recieve a Raijin link.  
+Re-did the info advancement with new info that was previously in help.  
 
 	V11.3:  
 Re-coded Many things, If you update to this pack you will have to re-craft your raijins!  
