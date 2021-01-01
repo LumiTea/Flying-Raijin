@@ -1,4 +1,4 @@
-# Leagcy versions of the pack
+# Legacy versions of the pack
 
 ### LV0.3: For MC 1.16.2-1.16.4  
 
