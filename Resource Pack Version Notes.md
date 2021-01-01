@@ -1,8 +1,9 @@
 # History/Notes of the Raijin Resource Pack
 #### Pretty much the only thing that changes is the .pack version # for compatibility.
 
+### V0.4 1.16 Pack (Latest Release)
 
-### V0.3: 1.16 Pack (Latest release for 1.16)
+### V0.3: 1.15 Pack (re-release for older version)
 
 ### V0.2: 1.14 Pack (re-release for older version)
 
