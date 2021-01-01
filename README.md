@@ -1,7 +1,7 @@
 # [Hiraishin no jutsu 🎥](https://youtu.be/dOuJNRJvqmY)
 
 ### Java Edition - Data pack  
-#### (Compatible with all MC versions 1.14 - 1.17 snapshots)  
+#### (Compatible with all MC versions 1.13 - 1.17 snapshots)  
 
 A Datapack that lets you and your players become Minato Namikaze from Naruto.    
 (Craft Tridents into Teleportation Kunai)  
