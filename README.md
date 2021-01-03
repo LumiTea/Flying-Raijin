@@ -5,14 +5,10 @@
 
 A Datapack that lets you and your players become Minato Namikaze from Naruto.    
 (Craft Tridents into Teleportation Kunai)  
-      
-                  Version 11.4 or Higher Recommended!  
-      (A reinstall is recomended if you update to 11.4+ from older versions)  
-      (as well as re-crafting your current Trident(s) and Raijin Link Items)  
 
 ### Use:  
       Throw a trident and Right click a Carrot on a stick.  
-      
+
 ~~(You can also throw an old Named/enchanted Carrot on a stick into 
 the crafting mix to upgrade it to a Raijin Carrot.)~~  
 
