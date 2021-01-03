@@ -1,6 +1,6 @@
 # Legacy versions of the pack
 
-For all Info on the pack check out the main branch for Patch Notes, Information and a History of updates.
+For all Info on the pack check out the main branch for Patch Notes and a History of updates.
 ## [Pack Info](https://github.com/InfamousMusicify/Flying-Raijin/blob/master/README.md)
 ## [Resource Pack Info](https://github.com/InfamousMusicify/Flying-Raijin/blob/master/Resource%20Pack%20Version%20Notes.md)
 ## [Verison Histonry](https://github.com/InfamousMusicify/Flying-Raijin/blob/master/Version%20History%20and%20Patch%20Notes.md)
