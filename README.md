@@ -4,14 +4,14 @@
 #### (Compatible with all MC versions 1.11 - 1.17 snapshots)  
 
 A Datapack that lets you and your players become Minato Namikaze from Naruto.    
-(Craft Tridents into Teleportation Kunai)  
+(Turn Bows/Tridents into Teleportation Kunai)  
 
 
       This Edition of the pack is for Pre-datapack era minecraft.  
-      You must use command blocks to achieve the effect in 1.12.2 and older versions.  
+      You must use command blocks and arrows to achieve the effect in 1.12.2 and older versions.  
       Check out the command blocks.md for info and commands
       
-      Cretae the chain of blocks, Now find a trident and a carrot on a stick, throw the trident,  
+      Cretae the chain of blocks, Now find a Bow/Arrows and a carrot on a stick, shoot an arrow,  
       and while its airborn right click the carrot on a stick. 
       
 
