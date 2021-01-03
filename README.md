@@ -4,7 +4,7 @@
 #### (Compatible with all MC versions 1.11 - 1.17 snapshots)  
 
 A Datapack that lets you and your players become Minato Namikaze from Naruto.    
-(Craft Tridents into Teleportation Kunai)  
+(Turn Tridents into Teleportation Kunai)  
 
 ### Use:  
       Throw a trident and Right click a Carrot on a stick.  
