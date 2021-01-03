@@ -1,4 +1,4 @@
-# [Hiraishin no jutsu 🎥](https://youtu.be/dOuJNRJvqmY)
+# [🎥 Hiraishin no jutsu](https://youtu.be/dOuJNRJvqmY)
 
 ### Java Edition - Data pack  
 #### (Compatible with all MC versions 1.11 - 1.17 snapshots)  
@@ -28,9 +28,12 @@ the crafting mix to upgrade it to a Raijin Carrot.)~~
       
       (Version 8.6 for Classic Version)  
 
-### [Datapack in Action](https://youtu.be/dOuJNRJvqmY)  
-### [Datapack Inspiration](https://youtu.be/Fd_vSRkGlv8)  
-### [How to Install a Datapack](https://www.youtube.com/watch?v=4Dxzw12TQcg)  
+### [⫸ Download Current Version ⫷](https://github.com/InfamousMusicify/Flying-Raijin/raw/master/Raijin%20V11.4.zip)  
+### [⫸ Download Current Textures ⫷](https://github.com/InfamousMusicify/Flying-Raijin/raw/master/Raijin%20Textures%20V0.4.zip)  
+
+### [🔗 Datapack in Action](https://youtu.be/dOuJNRJvqmY)  
+### [🔗 Datapack Inspiration](https://youtu.be/Fd_vSRkGlv8)  
+### [🔗 How to Install a Datapack](https://www.youtube.com/watch?v=4Dxzw12TQcg)  
 
 ### Big thanks to たくぱんちゃんねる for showcasing the pack!  
 
@@ -49,7 +52,7 @@ the crafting mix to upgrade it to a Raijin Carrot.)~~
       (Paste resource pack into resource pack folder.)  
       Paste the datapack into your .minecraft/saves/world/datapacks folder.  
 
-## [Check out the Beta-Testing Server!](https://bit.ly/2TizsgS)
+## [🔗 Check out the Beta-Testing Server!](https://bit.ly/2TizsgS)
 
 I hope you enjoy!  
 Big Thanks to M.R. Programs for helping me put this together. <3  
