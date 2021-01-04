@@ -29,4 +29,8 @@ Command Block Setup for older verisons of MC.
 	CMD Block 6: Always Active | Chain  
 	execute as @a[scores={raijin=1..},nbt={Inventory:[{id:"minecraft:carrot_on_a_stick"}]}] run scoreboard players set @s raijin 0
 	
+**Use this command to give yourself a custom textured raijin link:**  
+/give @p carrot_on_a_stick{CustomModelData:1} 1  
+
+	
 ## Now find a bow/arrows and a carrot on a stick, shoot an arrow, and right click the carrot on a stick. 
