@@ -10,7 +10,7 @@ A Datapack that lets you and your players become Minato Namikaze from Naruto.
       You must use command blocks and arrows to achieve the effect in MC 1.9 - 1.12.2.  
       Check out the command blocks.md for info and commands
       
-      Cretae the chain of blocks, Now find a Bow/Arrows and a carrot on a stick, shoot an arrow,  
+      Create the chain of blocks, find a Bow/Arrows and a carrot on a stick, shoot an arrow,  
       and while its airborn right click the carrot on a stick. 
 
 **Legacy Edition Downloads**  
