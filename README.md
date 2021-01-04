@@ -25,9 +25,6 @@ the crafting mix to upgrade it to a Raijin Carrot.)~~
 ### Legacy Pack Use: 
       Throw a trident and Right click a Carrot on a stick.  
 
-~~(You can also throw an old Named/enchanted Carrot on a stick into 
-the crafting mix to upgrade it to a Raijin Carrot.)~~  
-
 ### [Datapack in Action](https://youtu.be/dOuJNRJvqmY)  
 ### [Datapack Inspiration](https://youtu.be/Fd_vSRkGlv8)  
 ### [How to Install a Datapack](https://www.youtube.com/watch?v=4Dxzw12TQcg)  
