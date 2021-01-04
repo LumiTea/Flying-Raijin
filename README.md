@@ -6,30 +6,32 @@
 A Datapack that lets you and your players become Minato Namikaze from Naruto.    
 (Turn Bows/Tridents into Teleportation Kunai)  
 
-
       This Edition of the pack is for Pre-datapack era minecraft.  
       You must use command blocks and arrows to achieve the effect in MC 1.9 - 1.12.2.  
       Check out the command blocks.md for info and commands
       
       Cretae the chain of blocks, Now find a Bow/Arrows and a carrot on a stick, shoot an arrow,  
       and while its airborn right click the carrot on a stick. 
-      
 
-### [Datapack in Action](https://youtu.be/dOuJNRJvqmY)  
-### [Datapack Inspiration](https://youtu.be/Fd_vSRkGlv8)  
-### [How to Install a Datapack](https://www.youtube.com/watch?v=4Dxzw12TQcg)  
+**Legacy Edition Downloads**  
+**[⫸MC 1.16.2 - 1.16.4⫷](https://github.com/InfamousMusicify/Flying-Raijin/raw/Legacy/Raijin%20LV0.3.zip)** || **[⫸MC 1.15 - 1.16.1⫷](https://github.com/InfamousMusicify/Flying-Raijin/raw/Legacy/Raijin%20LV0.2.zip)** || **[⫸MC 1.13 - 1.14.4⫷](https://github.com/InfamousMusicify/Flying-Raijin/raw/Legacy/Raijin%20LV0.1.zip)**   
+**Command Block setup:** **[MC 1.9 - 1.12.2](https://github.com/InfamousMusicify/Flying-Raijin/tree/MC-1.11-1.12.2)**  
 
-### Big thanks to たくぱんちゃんねる for showcasing the pack!  
+**[Datapack in Action](https://youtu.be/dOuJNRJvqmY)  
+[Datapack Inspiration](https://youtu.be/Fd_vSRkGlv8)  
+[How to Install a Datapack](https://www.youtube.com/watch?v=4Dxzw12TQcg)**  
+
+**[Check out the Beta-Testing Server!](https://bit.ly/2TizsgS)**  
 
       Install Textures:  
       Click RaijinVx.x and then click download.  (same applys to "Raijin Textures Vx.x" if you desire the textures.)  
       (Paste resource pack into resource pack folder.)  
       Paste the datapack into your .minecraft/saves/world/datapacks folder.  
 
-## [Check out the Beta-Testing Server!](https://bit.ly/2TizsgS)
+**Big thanks to "たくぱんちゃんねる" for showcasing the pack!**   
 
-#### I hope you enjoy!  
-#### Big Thanks to M.R. Programs for helping me put this together. <3  
+**Big Thanks to M.R. Programs for helping me put this together. <3**  
+I hope you enjoy!  
 
 Cheers    
 -Infamous  
