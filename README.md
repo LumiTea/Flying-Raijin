@@ -22,9 +22,9 @@ the crafting mix to upgrade it to a Raijin Carrot.)~~
 
 **Command Block setup:** **[MC 1.9 - 1.12.2](https://github.com/InfamousMusicify/Flying-Raijin/tree/MC-1.11-1.12.2)**  
 #
-### [🔗 Datapack in Action](https://youtu.be/dOuJNRJvqmY)  
-### [🔗 Datapack Inspiration](https://youtu.be/Fd_vSRkGlv8)  
-### [🔗 How to Install a Datapack](https://www.youtube.com/watch?v=4Dxzw12TQcg)  
+**[Datapack in Action](https://youtu.be/dOuJNRJvqmY)  
+[Datapack Inspiration](https://youtu.be/Fd_vSRkGlv8)  
+[How to Install a Datapack](https://www.youtube.com/watch?v=4Dxzw12TQcg)**  
 
 **Big thanks to "たくぱんちゃんねる" for showcasing the pack!**  
 
