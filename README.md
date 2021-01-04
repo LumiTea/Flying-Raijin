@@ -16,13 +16,10 @@ A Datapack that lets you and your players become Minato Namikaze from Naruto.
 _**1:** Spit any Trident, a name tag and an eye of ender on top of an enchanting table,    
 Rename another eye of ender to "Raijin", the trident will be enchanted and you will recieve a special item.    
 **2:** Throw the trident and Right click the Raijin Item to teleport to the trident._  
-**Spare Raijin Link Crafting:** Rename an eye of ender to "Raijin" and you will recieve a Raijin link. 
+**Spare Raijin Link Crafting:** Rename an eye of ender to "Raijin" and you will recieve a Raijin link.  
 
-~~(You can also throw an old Named/enchanted Carrot on a stick into 
-the crafting mix to upgrade it to a Raijin Carrot.)~~  
       You Can Rename and Enchant your Raijin trident before or after its been Raijinified.  
-      (in 10.8 the carrot on a stick got a custom resource pack, but in order to see it  
-      you must re-craft the Raijin.)    
+      (in 10.8 and 11.4 the carrot on a stick got a custom resource pack/redo, to see it you must re-craft the Raijin Link.)    
 #
 **Legacy Edition Downloads**  
 **[⫸MC 1.16.2 - 1.16.4⫷](https://github.com/InfamousMusicify/Flying-Raijin/raw/Legacy/Raijin%20LV0.3.zip)** || **[⫸MC 1.15 - 1.16.1⫷](https://github.com/InfamousMusicify/Flying-Raijin/raw/Legacy/Raijin%20LV0.2.zip)** || **[⫸MC 1.13 - 1.14.4⫷](https://github.com/InfamousMusicify/Flying-Raijin/raw/Legacy/Raijin%20LV0.1.zip)**    
