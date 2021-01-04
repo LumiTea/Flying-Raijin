@@ -1,14 +1,14 @@
 # [Hiraishin no jutsu 🎥](https://youtu.be/dOuJNRJvqmY)
 
 ### Java Edition - Data pack  
-#### (Compatible with all MC versions 1.8 - 1.17 snapshots)  
+#### (Compatible with all MC versions 1.9 - 1.17 snapshots)  
 
 A Datapack that lets you and your players become Minato Namikaze from Naruto.    
 (Turn Bows/Tridents into Teleportation Kunai)  
 
 
       This Edition of the pack is for Pre-datapack era minecraft.  
-      You must use command blocks and arrows to achieve the effect in 1.12.2 and older versions.  
+      You must use command blocks and arrows to achieve the effect in MC 1.9 - 1.12.2.  
       Check out the command blocks.md for info and commands
       
       Cretae the chain of blocks, Now find a Bow/Arrows and a carrot on a stick, shoot an arrow,  
