@@ -9,15 +9,19 @@ A Datapack that lets you and your players become Minato Namikaze from Naruto.
 [⫸ Download Current Textures ⫷](https://github.com/InfamousMusicify/Flying-Raijin/raw/master/Raijin%20Textures%20V0.4.zip)**  
 
 **Crafting/Useage:**   
-_**1:** Spit any Trident, a name tag and an eye of ender on top of an enchanting table,    
-Rename another eye of ender to "Raijin", the trident will be enchanted and you will recieve a special item.    
-**2:** Throw the trident and Right click the Raijin Item to teleport to the trident._  
-**Spare Raijin Link Crafting:** Rename an eye of ender to "Raijin" and you will recieve a Raijin link.  
+_**1:** Craft an Eye of Ender and a NameTag together and you will recieve Chakra, throw your trident on the ground and right click it with the Chakra._   
+
+_The trident will be endowed with Raijin.   
+You will also recieve a Raijin Link._  
+
+_**2:** Throw the trident and Right click the Raijin Item to teleport to the trident._    
+
+**Spare Raijin Link Crafting:** Craft an Ender Pearl and Paper to get a spare Raijin Link.    
       **You Can Rename and Enchant your Raijin trident before or after its been Raijinified.**  
 
-                        Version 11.4 or Higher Recommended!  
-      (A reinstall is recomended if you update to 11.4+ from older versions)  
-      (in 10.8 and 11.4 textures/new code were introduced, you must recraft your trident/raijin link to see/use them.)
+                        Version 11.5 or Higher Recommended!  
+      (A reinstall is recomended if you update to 11.5+ from older versions)  
+      (in 10.8 and 11.5 textures/new code were introduced, you must recraft your trident/raijin link to see/use them.)
 
 #
 **Legacy Edition Downloads**  
