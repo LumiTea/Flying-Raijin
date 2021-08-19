@@ -5,9 +5,6 @@
 A Datapack that lets you and your players become Minato Namikaze from Naruto.    
       (Craft Tridents into Teleportation Kunai)  
 
-**[⫸ Download Current Version ⫷](https://github.com/InfamousMusicify/Flying-Raijin/raw/master/Raijin%20V11.4.zip)  
-[⫸ Download Current Textures ⫷](https://github.com/InfamousMusicify/Flying-Raijin/raw/master/Raijin%20Textures%20V0.4.zip)**  
-
 **Crafting/Useage:**   
 _**1:** Craft an Eye of Ender and a NameTag together and you will recieve Chakra, throw your trident on the ground and right click it with the Chakra._   
 
