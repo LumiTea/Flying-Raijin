@@ -11,7 +11,7 @@ _**1:** Craft an Eye of Ender and a NameTag together and you will recieve Chakra
 _The trident will be endowed with Raijin.   
 You will also recieve a Raijin Link._  
 
-_**2:** Throw the trident and Right click the Raijin Item to teleport to the trident._    
+_**2:** Throw the trident and Right click the Raijin Link to teleport to the trident._    
 
 **Spare Raijin Link Crafting:** Craft an Ender Pearl and Paper to get a spare Raijin Link.    
       **You Can Rename and Enchant your Raijin trident before or after its been Raijinified.**  
