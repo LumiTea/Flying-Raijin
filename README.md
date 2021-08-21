@@ -6,14 +6,14 @@ A Datapack that lets you and your players become Minato Namikaze from Naruto.
       (Craft Tridents into Teleportation Kunai)  
 
 **Crafting/Useage:**   
-_**1:** Craft an Eye of Ender and a NameTag together and you will recieve Chakra, throw your trident on the ground and right click it with the Chakra._   
+_**1:** Put an Eye of Ender and a NameTag in a crafting grid to create Chakra, throw your trident on the ground and right click it with the Chakra._   
 
 _The trident will be endowed with Raijin.   
 You will also recieve a Raijin Link._  
 
 _**2:** Throw the trident and Right click the Raijin Link to teleport to the trident._    
 
-**Spare Raijin Link Crafting:** Craft an Ender Pearl and Paper to get a spare Raijin Link.    
+**Spare Raijin Link Crafting:** Put an Ender Pearl and Paper in a crafting grid to get a spare Raijin Link.    
       **You Can Rename and Enchant your Raijin trident before or after its been Raijinified.**  
 
                         Version 11.5 or Higher Recommended!  
