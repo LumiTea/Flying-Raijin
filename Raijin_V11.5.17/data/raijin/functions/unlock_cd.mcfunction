@@ -4,4 +4,4 @@ execute if entity @a[scores={raijin_lock=1..61}] run schedule function raijin:un
 # remove point
 scoreboard players remove @s raijin_lock 1
 # Unlock player lockon after 1 minute
-execute as @a[scores={raijin_lock=0..1}] run scoreboard players reset @s[scores={raijin_lock=..1}] raijin_lock
+execute as @a[scores={raijin_lock=0..1}] run scoreboard players reset @s raijin_lock
