@@ -19,6 +19,8 @@ _**2:** Throw the trident and Right click the Raijin Link to teleport to the tri
       (A reinstall is recomended if you update to 11.5+ from older versions)  
       (in 10.8 and 11.5 textures/new code were introduced, you must recraft your trident/raijin link to see/use them.)
 
+### [Navigate to Branches for older verions of the pack.](https://github.com/InfamousMusicify/Flying-Raijin/branches)
+
 #
 **Legacy Edition Downloads**  
 **[⫸MC 1.16.2 - 1.16.4⫷](https://github.com/InfamousMusicify/Flying-Raijin/raw/Legacy/Raijin%20LV0.3.zip)** || **[⫸MC 1.15 - 1.16.1⫷](https://github.com/InfamousMusicify/Flying-Raijin/raw/Legacy/Raijin%20LV0.2.zip)** || **[⫸MC 1.13 - 1.14.4⫷](https://github.com/InfamousMusicify/Flying-Raijin/raw/Legacy/Raijin%20LV0.1.zip)**    
