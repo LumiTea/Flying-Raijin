@@ -13,5 +13,7 @@ scoreboard objectives remove raijin
 scoreboard objectives remove raijin_throw
 scoreboard objectives remove raijin_id
 scoreboard objectives remove chakra
+scoreboard objectives remove raijin_link
+scoreboard objectives remove raijin_uid
 #scoreboard objectives remove raijin1
 bossbar remove 345

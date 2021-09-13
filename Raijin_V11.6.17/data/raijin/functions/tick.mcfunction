@@ -9,5 +9,5 @@ scoreboard players set @a raijin 0
 # Trident Lock Cooldown (for more accurate TP)
 execute as @a[scores={raijin_lock=61}, nbt={Inventory:[{id:"minecraft:carrot_on_a_stick", tag: {Tags: ["Raijin"]}}]}] run function raijin:unlock_cd
 # Crafting / / Spare
-execute at @a[scores={chakra=1..}, nbt={SelectedItem:{id:"minecraft:carrot_on_a_stick", tag: {Tags: ["Chakra"]}}}] run function raijin:craft
+execute at @a[scores={chakra=1..}, nbt={SelectedItem:{id:"minecraft:pig_spawn_egg", tag: {Tag:"Chakra"}}}] run function raijin:craft
 scoreboard players set @a chakra 0
